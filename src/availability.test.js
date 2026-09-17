@@ -21,3 +21,4 @@ describe('formatAvailability', () => {
     expect(formatAvailability(10, 6)).toBe('残り 4 席')
   })
 })
+
